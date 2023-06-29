@@ -1,7 +1,7 @@
 # odin-recipes
 The Odin Project - Recipes
 
-I created this HTML webpage to showcase what I learned in the HTML chapter of The Odin Project series (My first steps to becoming a full stack developer!)
+I created this HTML webpage to showcase what I learned in the HTML chapter of The Odin Project series.
 
 Key Learning Accomplishments:
 
